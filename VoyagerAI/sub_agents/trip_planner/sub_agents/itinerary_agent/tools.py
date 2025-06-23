@@ -9,11 +9,11 @@ tripadvisor_tool= MCPToolset(
     )
 )
 
-openweather_tool= MCPToolset(
-    connection_params=SseServerParams( 
-        url=os.getenv('OPENWEATHER_MCP'),
-    )
-)
+# openweather_tool= MCPToolset(
+#     connection_params=SseServerParams( 
+#         url=os.getenv('OPENWEATHER_MCP'),
+#     )
+# )
 
 google_maps_tool = MCPToolset(
             connection_params=StdioServerParameters(

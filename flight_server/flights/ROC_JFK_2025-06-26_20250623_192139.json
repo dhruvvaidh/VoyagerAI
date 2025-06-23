@@ -1,0 +1,866 @@
+{
+  "search_metadata": {
+    "search_id": "ROC_JFK_2025-06-26_20250623_192139",
+    "departure": "ROC",
+    "arrival": "JFK",
+    "outbound_date": "2025-06-26",
+    "return_date": null,
+    "trip_type": "One way",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants_in_seat": 0,
+      "infants_on_lap": 0
+    },
+    "travel_class": "Economy",
+    "currency": "USD",
+    "search_timestamp": "2025-06-23T19:21:39.590801"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-06-26 05:30"
+          },
+          "arrival_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 06:59"
+          },
+          "duration": 89,
+          "airplane": "Canadair RJ 900",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 5318",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Carbon emissions estimate: 85 kg"
+          ],
+          "plane_and_crew_by": "Endeavor Air DBA Delta Connection"
+        }
+      ],
+      "total_duration": 89,
+      "carbon_emissions": {
+        "this_flight": 86000,
+        "typical_for_this_route": 92000,
+        "difference_percent": -7
+      },
+      "price": 199,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYTBWdVEzSldWRUpmVmpoQlFUTkhXSGRDUnkwdExTMHRMUzB0TFhaM1ltVjZNVUZCUVVGQlIyaGFORmxKVGxZMFFYRkJFZ1pFVERVek1UZ2FDd2lJbXdFUUFob0RWVk5FT0J4d2lKc0IiLFtbIlJPQyIsIjIwMjUtMDYtMjYiLCJKRksiLG51bGwsIkRMIiwiNTMxOCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-06-26 06:15"
+          },
+          "arrival_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 07:39"
+          },
+          "duration": 84,
+          "airplane": "Airbus A220-300 Passenger",
+          "airline": "JetBlue",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "travel_class": "Economy",
+          "flight_number": "B6 1285",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 72 kg"
+          ]
+        }
+      ],
+      "total_duration": 84,
+      "carbon_emissions": {
+        "this_flight": 73000,
+        "typical_for_this_route": 92000,
+        "difference_percent": -21
+      },
+      "price": 199,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYTBWdVEzSldWRUpmVmpoQlFUTkhXSGRDUnkwdExTMHRMUzB0TFhaM1ltVjZNVUZCUVVGQlIyaGFORmxKVGxZMFFYRkJFZ1pDTmpFeU9EVWFDd2lJbXdFUUFob0RWVk5FT0J4d2lKc0IiLFtbIlJPQyIsIjIwMjUtMDYtMjYiLCJKRksiLG51bGwsIkI2IiwiMTI4NSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-06-26 11:25"
+          },
+          "arrival_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 12:44"
+          },
+          "duration": 79,
+          "airplane": "Airbus A220-300 Passenger",
+          "airline": "JetBlue",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "travel_class": "Economy",
+          "flight_number": "B6 485",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 72 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 79,
+      "carbon_emissions": {
+        "this_flight": 73000,
+        "typical_for_this_route": 92000,
+        "difference_percent": -21
+      },
+      "price": 229,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYTBWdVEzSldWRUpmVmpoQlFUTkhXSGRDUnkwdExTMHRMUzB0TFhaM1ltVjZNVUZCUVVGQlIyaGFORmxKVGxZMFFYRkJFZ1ZDTmpRNE5Sb0xDTUN5QVJBQ0dnTlZVMFE0SEhEQXNnRT0iLFtbIlJPQyIsIjIwMjUtMDYtMjYiLCJKRksiLG51bGwsIkI2IiwiNDg1Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-06-26 11:11"
+          },
+          "arrival_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 12:35"
+          },
+          "duration": 84,
+          "airplane": "Canadair RJ 900",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 5330",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Carbon emissions estimate: 85 kg"
+          ],
+          "plane_and_crew_by": "Endeavor Air DBA Delta Connection"
+        }
+      ],
+      "total_duration": 84,
+      "carbon_emissions": {
+        "this_flight": 86000,
+        "typical_for_this_route": 92000,
+        "difference_percent": -7
+      },
+      "price": 299,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYTBWdVEzSldWRUpmVmpoQlFUTkhXSGRDUnkwdExTMHRMUzB0TFhaM1ltVjZNVUZCUVVGQlIyaGFORmxKVGxZMFFYRkJFZ1pFVERVek16QWFDd2laNlFFUUFob0RWVk5FT0J4d21la0IiLFtbIlJPQyIsIjIwMjUtMDYtMjYiLCJKRksiLG51bGwsIkRMIiwiNTMzMCJdXV0="
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-06-26 06:36"
+          },
+          "arrival_airport": {
+            "name": "Charlotte Douglas International Airport",
+            "id": "CLT",
+            "time": "2025-06-26 08:25"
+          },
+          "duration": 109,
+          "airplane": "Airbus A320",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1058",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 111 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Charlotte Douglas International Airport",
+            "id": "CLT",
+            "time": "2025-06-26 11:37"
+          },
+          "arrival_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 13:39"
+          },
+          "duration": 122,
+          "airplane": "Airbus A321",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2812",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 101 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 192,
+          "name": "Charlotte Douglas International Airport",
+          "id": "CLT"
+        }
+      ],
+      "total_duration": 423,
+      "carbon_emissions": {
+        "this_flight": 213000,
+        "typical_for_this_route": 92000,
+        "difference_percent": 132
+      },
+      "price": 209,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYTBWdVEzSldWRUpmVmpoQlFUTkhXSGRDUnkwdExTMHRMUzB0TFhaM1ltVjZNVUZCUVVGQlIyaGFORmxKVGxZMFFYRkJFZzFCUVRFd05UaDhRVUV5T0RFeUdnc0kwcUlCRUFJYUExVlRSRGdjY05LaUFRPT0iLFtbIlJPQyIsIjIwMjUtMDYtMjYiLCJDTFQiLG51bGwsIkFBIiwiMTA1OCJdLFsiQ0xUIiwiMjAyNS0wNi0yNiIsIkpGSyIsbnVsbCwiQUEiLCIyODEyIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-06-26 11:57"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2025-06-26 13:14"
+          },
+          "duration": 77,
+          "airplane": "Canadair RJ 700",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 5315",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 104 kg"
+          ],
+          "plane_and_crew_by": "PSA Airlines as American Eagle"
+        },
+        {
+          "departure_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2025-06-26 13:44"
+          },
+          "arrival_airport": {
+            "name": "Raleigh-Durham International Airport",
+            "id": "RDU",
+            "time": "2025-06-26 15:00"
+          },
+          "duration": 76,
+          "airplane": "Canadair RJ 700",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 5589",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 112 kg"
+          ],
+          "often_delayed_by_over_30_min": true,
+          "plane_and_crew_by": "PSA Airlines as American Eagle"
+        },
+        {
+          "departure_airport": {
+            "name": "Raleigh-Durham International Airport",
+            "id": "RDU",
+            "time": "2025-06-26 20:41"
+          },
+          "arrival_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 22:30"
+          },
+          "duration": 109,
+          "airplane": "Embraer 175",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 4417",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 106 kg"
+          ],
+          "often_delayed_by_over_30_min": true,
+          "plane_and_crew_by": "Republic Airways as American Eagle"
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 30,
+          "name": "Ronald Reagan Washington National Airport",
+          "id": "DCA"
+        },
+        {
+          "duration": 341,
+          "name": "Raleigh-Durham International Airport",
+          "id": "RDU"
+        }
+      ],
+      "total_duration": 633,
+      "carbon_emissions": {
+        "this_flight": 323000,
+        "typical_for_this_route": 92000,
+        "difference_percent": 251
+      },
+      "price": 304,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYTBWdVEzSldWRUpmVmpoQlFUTkhXSGRDUnkwdExTMHRMUzB0TFhaM1ltVjZNVUZCUVVGQlIyaGFORmxKVGxZMFFYRkJFaFJCUVRVek1UVjhRVUUxTlRnNWZFRkJORFF4TnhvTENPenNBUkFDR2dOVlUwUTRISERzN0FFPSIsW1siUk9DIiwiMjAyNS0wNi0yNiIsIkRDQSIsbnVsbCwiQUEiLCI1MzE1Il0sWyJEQ0EiLCIyMDI1LTA2LTI2IiwiUkRVIixudWxsLCJBQSIsIjU1ODkiXSxbIlJEVSIsIjIwMjUtMDYtMjYiLCJKRksiLG51bGwsIkFBIiwiNDQxNyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-06-26 11:57"
+          },
+          "arrival_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2025-06-26 13:14"
+          },
+          "duration": 77,
+          "airplane": "Canadair RJ 700",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 5315",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 104 kg"
+          ],
+          "plane_and_crew_by": "PSA Airlines as American Eagle"
+        },
+        {
+          "departure_airport": {
+            "name": "Ronald Reagan Washington National Airport",
+            "id": "DCA",
+            "time": "2025-06-26 14:54"
+          },
+          "arrival_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 16:29"
+          },
+          "duration": 95,
+          "airplane": "Embraer 175",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 4781",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 74 kg"
+          ],
+          "often_delayed_by_over_30_min": true,
+          "plane_and_crew_by": "Republic Airways as American Eagle"
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 100,
+          "name": "Ronald Reagan Washington National Airport",
+          "id": "DCA"
+        }
+      ],
+      "total_duration": 272,
+      "carbon_emissions": {
+        "this_flight": 179000,
+        "typical_for_this_route": 92000,
+        "difference_percent": 95
+      },
+      "price": 309,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYTBWdVEzSldWRUpmVmpoQlFUTkhXSGRDUnkwdExTMHRMUzB0TFhaM1ltVjZNVUZCUVVGQlIyaGFORmxKVGxZMFFYRkJFZzFCUVRVek1UVjhRVUUwTnpneEdnc0k0L0FCRUFJYUExVlRSRGdjY09Qd0FRPT0iLFtbIlJPQyIsIjIwMjUtMDYtMjYiLCJEQ0EiLG51bGwsIkFBIiwiNTMxNSJdLFsiRENBIiwiMjAyNS0wNi0yNiIsIkpGSyIsbnVsbCwiQUEiLCI0NzgxIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-06-26 17:20"
+          },
+          "arrival_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 19:00"
+          },
+          "duration": 100,
+          "airplane": "Canadair RJ 900",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 5289",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Carbon emissions estimate: 85 kg"
+          ],
+          "often_delayed_by_over_30_min": true,
+          "plane_and_crew_by": "Endeavor Air DBA Delta Connection"
+        }
+      ],
+      "total_duration": 100,
+      "carbon_emissions": {
+        "this_flight": 86000,
+        "typical_for_this_route": 92000,
+        "difference_percent": -7
+      },
+      "price": 399,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYTBWdVEzSldWRUpmVmpoQlFUTkhXSGRDUnkwdExTMHRMUzB0TFhaM1ltVjZNVUZCUVVGQlIyaGFORmxKVGxZMFFYRkJFZ1pFVERVeU9Ea2FDd2lvdHdJUUFob0RWVk5FT0J4d3FMY0MiLFtbIlJPQyIsIjIwMjUtMDYtMjYiLCJKRksiLG51bGwsIkRMIiwiNTI4OSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-06-26 16:05"
+          },
+          "arrival_airport": {
+            "name": "Boston Logan International Airport",
+            "id": "BOS",
+            "time": "2025-06-26 17:28"
+          },
+          "duration": 83,
+          "airplane": "Embraer ERJ-145",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 5891",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Carbon emissions estimate: 101 kg"
+          ],
+          "often_delayed_by_over_30_min": true,
+          "plane_and_crew_by": "Piedmont Airlines as American Eagle"
+        },
+        {
+          "departure_airport": {
+            "name": "Boston Logan International Airport",
+            "id": "BOS",
+            "time": "2025-06-26 17:59"
+          },
+          "arrival_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 19:29"
+          },
+          "duration": 90,
+          "airplane": "Embraer 175",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 4580",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 81 kg"
+          ],
+          "often_delayed_by_over_30_min": true,
+          "plane_and_crew_by": "Republic Airways as American Eagle"
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 31,
+          "name": "Boston Logan International Airport",
+          "id": "BOS"
+        }
+      ],
+      "total_duration": 204,
+      "carbon_emissions": {
+        "this_flight": 183000,
+        "typical_for_this_route": 92000,
+        "difference_percent": 99
+      },
+      "price": 499,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYTBWdVEzSldWRUpmVmpoQlFUTkhXSGRDUnkwdExTMHRMUzB0TFhaM1ltVjZNVUZCUVVGQlIyaGFORmxKVGxZMFFYRkJFZzFCUVRVNE9URjhRVUUwTlRnd0dnc0ltb1VERUFJYUExVlRSRGdjY0pxRkF3PT0iLFtbIlJPQyIsIjIwMjUtMDYtMjYiLCJCT1MiLG51bGwsIkFBIiwiNTg5MSJdLFsiQk9TIiwiMjAyNS0wNi0yNiIsIkpGSyIsbnVsbCwiQUEiLCI0NTgwIl1dXQ=="
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 199,
+    "price_level": "high",
+    "typical_price_range": [
+      75,
+      150
+    ],
+    "price_history": [
+      [
+        1745467200,
+        79
+      ],
+      [
+        1745553600,
+        79
+      ],
+      [
+        1745640000,
+        79
+      ],
+      [
+        1745726400,
+        79
+      ],
+      [
+        1745812800,
+        79
+      ],
+      [
+        1745899200,
+        79
+      ],
+      [
+        1745985600,
+        79
+      ],
+      [
+        1746072000,
+        79
+      ],
+      [
+        1746158400,
+        94
+      ],
+      [
+        1746244800,
+        94
+      ],
+      [
+        1746331200,
+        94
+      ],
+      [
+        1746417600,
+        94
+      ],
+      [
+        1746504000,
+        94
+      ],
+      [
+        1746590400,
+        94
+      ],
+      [
+        1746676800,
+        94
+      ],
+      [
+        1746763200,
+        94
+      ],
+      [
+        1746849600,
+        94
+      ],
+      [
+        1746936000,
+        94
+      ],
+      [
+        1747022400,
+        64
+      ],
+      [
+        1747108800,
+        64
+      ],
+      [
+        1747195200,
+        64
+      ],
+      [
+        1747281600,
+        64
+      ],
+      [
+        1747368000,
+        64
+      ],
+      [
+        1747454400,
+        94
+      ],
+      [
+        1747540800,
+        94
+      ],
+      [
+        1747627200,
+        94
+      ],
+      [
+        1747713600,
+        94
+      ],
+      [
+        1747800000,
+        94
+      ],
+      [
+        1747886400,
+        94
+      ],
+      [
+        1747972800,
+        94
+      ],
+      [
+        1748059200,
+        94
+      ],
+      [
+        1748145600,
+        94
+      ],
+      [
+        1748232000,
+        94
+      ],
+      [
+        1748318400,
+        94
+      ],
+      [
+        1748404800,
+        94
+      ],
+      [
+        1748491200,
+        94
+      ],
+      [
+        1748577600,
+        94
+      ],
+      [
+        1748664000,
+        94
+      ],
+      [
+        1748750400,
+        94
+      ],
+      [
+        1748836800,
+        94
+      ],
+      [
+        1748923200,
+        94
+      ],
+      [
+        1749009600,
+        94
+      ],
+      [
+        1749096000,
+        94
+      ],
+      [
+        1749182400,
+        94
+      ],
+      [
+        1749268800,
+        94
+      ],
+      [
+        1749355200,
+        94
+      ],
+      [
+        1749441600,
+        94
+      ],
+      [
+        1749528000,
+        94
+      ],
+      [
+        1749614400,
+        94
+      ],
+      [
+        1749700800,
+        94
+      ],
+      [
+        1749787200,
+        94
+      ],
+      [
+        1749873600,
+        119
+      ],
+      [
+        1749960000,
+        119
+      ],
+      [
+        1750046400,
+        119
+      ],
+      [
+        1750132800,
+        119
+      ],
+      [
+        1750219200,
+        119
+      ],
+      [
+        1750305600,
+        119
+      ],
+      [
+        1750392000,
+        119
+      ],
+      [
+        1750478400,
+        199
+      ],
+      [
+        1750564800,
+        199
+      ],
+      [
+        1750651200,
+        199
+      ]
+    ]
+  },
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "ROC",
+            "name": "Frederick Douglass Greater Rochester International Airport"
+          },
+          "city": "Rochester",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqxbaS_RUFbZ6WzYkvXEwEDUW2Vr2Ew_cbefzfkO35pYhikVeuFCWww3hmIGTJdwEB3DcCFv1OT-Oc0w",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSs7W9HF1KKlffeFP_gQ1onr_uvIeE80rIRBlvrRaXT30gV44pXLrs4KAez_Pr-LdFPZ_Em_lkl7OsKDQhuTpzoQ5LUFIADEmDZK21kp28"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "JFK",
+            "name": "John F. Kennedy International Airport"
+          },
+          "city": "New York",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa1dwH1NZQk4dsbPiyA9Vrq2RX75jXSZ-OkHn7NkLHl-11HercqDXoZ4p2cDxJkH6vca2degawrCzHEQ",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEaUa9NsdPWGpAUGkTApkZDT_4M6_6V8wTcC0v1b1wJAJX-BuMSiipXbsoznGgcI1xLOc5QiTcR_xovexgjdOz0gqQe0tRQ9h0bUkZ07Q"
+        }
+      ]
+    }
+  ]
+}

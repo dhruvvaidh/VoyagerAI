@@ -1,0 +1,965 @@
+{
+  "search_metadata": {
+    "search_id": "JFK_AMS_2025-06-26_2025-07-02_20250623_182914",
+    "departure": "JFK",
+    "arrival": "AMS",
+    "outbound_date": "2025-06-26",
+    "return_date": "2025-07-02",
+    "trip_type": "Round trip",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants_in_seat": 0,
+      "infants_on_lap": 0
+    },
+    "travel_class": "Economy",
+    "currency": "USD",
+    "search_timestamp": "2025-06-23T18:29:14.260585"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 16:55"
+          },
+          "arrival_airport": {
+            "name": "Dublin Airport",
+            "id": "DUB",
+            "time": "2025-06-27 04:25"
+          },
+          "duration": 390,
+          "airplane": "Airbus A330",
+          "airline": "Aer Lingus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EI.png",
+          "travel_class": "Economy",
+          "flight_number": "EI 104",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 311 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Dublin Airport",
+            "id": "DUB",
+            "time": "2025-06-27 06:15"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-06-27 08:55"
+          },
+          "duration": 100,
+          "airplane": "Airbus A320",
+          "airline": "Aer Lingus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EI.png",
+          "travel_class": "Economy",
+          "flight_number": "EI 602",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Carbon emissions estimate: 82 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 110,
+          "name": "Dublin Airport",
+          "id": "DUB",
+          "overnight": true
+        }
+      ],
+      "total_duration": 600,
+      "carbon_emissions": {
+        "this_flight": 394000,
+        "typical_for_this_route": 438000,
+        "difference_percent": -10
+      },
+      "price": 1264,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EI.png",
+      "departure_token": "WyJDalJJU0hOUlkwSXliWG8zVHpSQlFXcERiVkZDUnkwdExTMHRMUzB0TFMxMmQyOTZOVUZCUVVGQlIyaGFNVlJyVFUxeGNGbEJFZ3RGU1RFd05IeEZTVFl3TWhvTENPRGFCeEFDR2dOVlUwUTRISERnMmdjPSIsW1siSkZLIiwiMjAyNS0wNi0yNiIsIkRVQiIsbnVsbCwiRUkiLCIxMDQiXSxbIkRVQiIsIjIwMjUtMDYtMjciLCJBTVMiLG51bGwsIkVJIiwiNjAyIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 00:50"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-06-26 14:10"
+          },
+          "duration": 440,
+          "airplane": "Boeing 777",
+          "airline": "KLM",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+          "travel_class": "Economy",
+          "flight_number": "KL 646",
+          "ticket_also_sold_by": [
+            "Delta"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 349 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 440,
+      "carbon_emissions": {
+        "this_flight": 349000,
+        "typical_for_this_route": 438000,
+        "difference_percent": -20
+      },
+      "price": 1690,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+      "departure_token": "WyJDalJJU0hOUlkwSXliWG8zVHpSQlFXcERiVkZDUnkwdExTMHRMUzB0TFMxMmQyOTZOVUZCUVVGQlIyaGFNVlJyVFUxeGNGbEJFZ1ZMVERZME5ob0xDSitvQ2hBQ0dnTlZVMFE0SEhDZnFBbz0iLFtbIkpGSyIsIjIwMjUtMDYtMjYiLCJBTVMiLG51bGwsIktMIiwiNjQ2Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 17:05"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-06-27 06:50"
+          },
+          "duration": 465,
+          "airplane": "Airbus A330",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 46",
+          "ticket_also_sold_by": [
+            "Air France",
+            "KLM",
+            "Virgin Atlantic"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 341 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 465,
+      "carbon_emissions": {
+        "this_flight": 342000,
+        "typical_for_this_route": 438000,
+        "difference_percent": -22
+      },
+      "price": 1690,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "departure_token": "WyJDalJJU0hOUlkwSXliWG8zVHpSQlFXcERiVkZDUnkwdExTMHRMUzB0TFMxMmQyOTZOVUZCUVVGQlIyaGFNVlJyVFUxeGNGbEJFZ1JFVERRMkdnc0luNmdLRUFJYUExVlRSRGdjY0orb0NnPT0iLFtbIkpGSyIsIjIwMjUtMDYtMjYiLCJBTVMiLG51bGwsIkRMIiwiNDYiXV1d"
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 16:55"
+          },
+          "arrival_airport": {
+            "name": "Dublin Airport",
+            "id": "DUB",
+            "time": "2025-06-27 04:25"
+          },
+          "duration": 390,
+          "airplane": "Airbus A330",
+          "airline": "Aer Lingus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EI.png",
+          "travel_class": "Economy",
+          "flight_number": "EI 104",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 311 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Dublin Airport",
+            "id": "DUB",
+            "time": "2025-06-27 13:40"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-06-27 16:20"
+          },
+          "duration": 100,
+          "airplane": "Airbus A320",
+          "airline": "Aer Lingus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EI.png",
+          "travel_class": "Economy",
+          "flight_number": "EI 608",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Carbon emissions estimate: 82 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 555,
+          "name": "Dublin Airport",
+          "id": "DUB",
+          "overnight": true
+        }
+      ],
+      "total_duration": 1045,
+      "carbon_emissions": {
+        "this_flight": 394000,
+        "typical_for_this_route": 438000,
+        "difference_percent": -10
+      },
+      "price": 1056,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EI.png",
+      "departure_token": "WyJDalJJU0hOUlkwSXliWG8zVHpSQlFXcERiVkZDUnkwdExTMHRMUzB0TFMxMmQyOTZOVUZCUVVGQlIyaGFNVlJyVFUxeGNGbEJFZ3RGU1RFd05IeEZTVFl3T0JvTENMeTRCaEFDR2dOVlUwUTRISEM4dUFZPSIsW1siSkZLIiwiMjAyNS0wNi0yNiIsIkRVQiIsbnVsbCwiRUkiLCIxMDQiXSxbIkRVQiIsIjIwMjUtMDYtMjciLCJBTVMiLG51bGwsIkVJIiwiNjA4Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 21:05"
+          },
+          "arrival_airport": {
+            "name": "Dublin Airport",
+            "id": "DUB",
+            "time": "2025-06-27 08:45"
+          },
+          "duration": 400,
+          "airplane": "Airbus A330",
+          "airline": "Aer Lingus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EI.png",
+          "travel_class": "Economy",
+          "flight_number": "EI 106",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 311 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Dublin Airport",
+            "id": "DUB",
+            "time": "2025-06-27 13:40"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-06-27 16:20"
+          },
+          "duration": 100,
+          "airplane": "Airbus A320",
+          "airline": "Aer Lingus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EI.png",
+          "travel_class": "Economy",
+          "flight_number": "EI 608",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Carbon emissions estimate: 82 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 295,
+          "name": "Dublin Airport",
+          "id": "DUB"
+        }
+      ],
+      "total_duration": 795,
+      "carbon_emissions": {
+        "this_flight": 394000,
+        "typical_for_this_route": 438000,
+        "difference_percent": -10
+      },
+      "price": 1186,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EI.png",
+      "departure_token": "WyJDalJJU0hOUlkwSXliWG8zVHpSQlFXcERiVkZDUnkwdExTMHRMUzB0TFMxMmQyOTZOVUZCUVVGQlIyaGFNVlJyVFUxeGNGbEJFZ3RGU1RFd05ueEZTVFl3T0JvTENKdWVCeEFDR2dOVlUwUTRISENibmdjPSIsW1siSkZLIiwiMjAyNS0wNi0yNiIsIkRVQiIsbnVsbCwiRUkiLCIxMDYiXSxbIkRVQiIsIjIwMjUtMDYtMjciLCJBTVMiLG51bGwsIkVJIiwiNjA4Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 23:40"
+          },
+          "arrival_airport": {
+            "name": "Josep Tarradellas Barcelona-El Prat Airport",
+            "id": "BCN",
+            "time": "2025-06-27 13:40"
+          },
+          "duration": 480,
+          "airplane": "Airbus A330-900neo",
+          "airline": "Iberia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/IB.png",
+          "travel_class": "Economy",
+          "flight_number": "IB 2628",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 409 kg"
+          ],
+          "overnight": true,
+          "plane_and_crew_by": "Iberojet Portugal for Iberia Level"
+        },
+        {
+          "departure_airport": {
+            "name": "Josep Tarradellas Barcelona-El Prat Airport",
+            "id": "BCN",
+            "time": "2025-06-27 15:15"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-06-27 17:40"
+          },
+          "duration": 145,
+          "airplane": "Airbus A321",
+          "airline": "Vueling",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+          "travel_class": "Economy",
+          "flight_number": "VY 8306",
+          "ticket_also_sold_by": [
+            "Iberia"
+          ],
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 112 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 95,
+          "name": "Josep Tarradellas Barcelona-El Prat Airport",
+          "id": "BCN"
+        }
+      ],
+      "total_duration": 720,
+      "carbon_emissions": {
+        "this_flight": 522000,
+        "typical_for_this_route": 438000,
+        "difference_percent": 19
+      },
+      "price": 1341,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "departure_token": "WyJDalJJU0hOUlkwSXliWG8zVHpSQlFXcERiVkZDUnkwdExTMHRMUzB0TFMxMmQyOTZOVUZCUVVGQlIyaGFNVlJyVFUxeGNGbEJFZzFKUWpJMk1qaDhWbGs0TXpBMkdnc0l0NWNJRUFJYUExVlRSRGdjY0xlWENBPT0iLFtbIkpGSyIsIjIwMjUtMDYtMjYiLCJCQ04iLG51bGwsIklCIiwiMjYyOCJdLFsiQkNOIiwiMjAyNS0wNi0yNyIsIkFNUyIsbnVsbCwiVlkiLCI4MzA2Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 09:00"
+          },
+          "arrival_airport": {
+            "name": "Montr\u00e9al-Pierre Elliott Trudeau International Airport",
+            "id": "YUL",
+            "time": "2025-06-26 10:36"
+          },
+          "duration": 96,
+          "airplane": "Embraer 175",
+          "airline": "Air Canada",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AC.png",
+          "travel_class": "Economy",
+          "flight_number": "AC 8899",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 91 kg"
+          ],
+          "plane_and_crew_by": "Air Canada Express - Jazz"
+        },
+        {
+          "departure_airport": {
+            "name": "Montr\u00e9al-Pierre Elliott Trudeau International Airport",
+            "id": "YUL",
+            "time": "2025-06-26 21:30"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-06-27 10:20"
+          },
+          "duration": 410,
+          "airplane": "Boeing 787",
+          "airline": "Air Canada",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AC.png",
+          "travel_class": "Economy",
+          "flight_number": "AC 900",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 346 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 654,
+          "name": "Montr\u00e9al-Pierre Elliott Trudeau International Airport",
+          "id": "YUL"
+        }
+      ],
+      "total_duration": 1160,
+      "carbon_emissions": {
+        "this_flight": 438000,
+        "typical_for_this_route": 438000,
+        "difference_percent": 0
+      },
+      "price": 1349,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AC.png",
+      "departure_token": "WyJDalJJU0hOUlkwSXliWG8zVHpSQlFXcERiVkZDUnkwdExTMHRMUzB0TFMxMmQyOTZOVUZCUVVGQlIyaGFNVlJyVFUxeGNGbEJFZ3hCUXpnNE9UbDhRVU01TURBYUN3aTVuUWdRQWhvRFZWTkVPQnh3dVowSSIsW1siSkZLIiwiMjAyNS0wNi0yNiIsIllVTCIsbnVsbCwiQUMiLCI4ODk5Il0sWyJZVUwiLCIyMDI1LTA2LTI2IiwiQU1TIixudWxsLCJBQyIsIjkwMCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 17:30"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-06-27 06:50"
+          },
+          "duration": 440,
+          "airplane": "Boeing 777",
+          "airline": "KLM",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+          "travel_class": "Economy",
+          "flight_number": "KL 642",
+          "ticket_also_sold_by": [
+            "Delta"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 371 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 440,
+      "carbon_emissions": {
+        "this_flight": 372000,
+        "typical_for_this_route": 438000,
+        "difference_percent": -15
+      },
+      "price": 1690,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+      "departure_token": "WyJDalJJU0hOUlkwSXliWG8zVHpSQlFXcERiVkZDUnkwdExTMHRMUzB0TFMxMmQyOTZOVUZCUVVGQlIyaGFNVlJyVFUxeGNGbEJFZ1ZMVERZME1ob0xDSitvQ2hBQ0dnTlZVMFE0SEhDZnFBbz0iLFtbIkpGSyIsIjIwMjUtMDYtMjYiLCJBTVMiLG51bGwsIktMIiwiNjQyIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 21:10"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-06-27 10:30"
+          },
+          "duration": 440,
+          "airplane": "Boeing 787-10",
+          "airline": "KLM",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+          "travel_class": "Economy",
+          "flight_number": "KL 644",
+          "ticket_also_sold_by": [
+            "Delta"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 269 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 440,
+      "carbon_emissions": {
+        "this_flight": 269000,
+        "typical_for_this_route": 438000,
+        "difference_percent": -39
+      },
+      "price": 1690,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+      "departure_token": "WyJDalJJU0hOUlkwSXliWG8zVHpSQlFXcERiVkZDUnkwdExTMHRMUzB0TFMxMmQyOTZOVUZCUVVGQlIyaGFNVlJyVFUxeGNGbEJFZ1ZMVERZME5Cb0xDSitvQ2hBQ0dnTlZVMFE0SEhDZnFBbz0iLFtbIkpGSyIsIjIwMjUtMDYtMjYiLCJBTVMiLG51bGwsIktMIiwiNjQ0Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 19:35"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-06-27 09:20"
+          },
+          "duration": 465,
+          "airplane": "Airbus A321neo",
+          "airline": "JetBlue",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "travel_class": "Economy",
+          "flight_number": "B6 2288",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 534 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 465,
+      "carbon_emissions": {
+        "this_flight": 534000,
+        "typical_for_this_route": 438000,
+        "difference_percent": 22
+      },
+      "price": 1730,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+      "departure_token": "WyJDalJJU0hOUlkwSXliWG8zVHpSQlFXcERiVkZDUnkwdExTMHRMUzB0TFMxMmQyOTZOVUZCUVVGQlIyaGFNVlJyVFUxeGNGbEJFZ1pDTmpJeU9EZ2FDd2lOeHdvUUFob0RWVk5FT0J4d2pjY0siLFtbIkpGSyIsIjIwMjUtMDYtMjYiLCJBTVMiLG51bGwsIkI2IiwiMjI4OCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2025-06-26 19:19"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-06-27 09:00"
+          },
+          "duration": 461,
+          "airplane": "Airbus A330-900neo",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 48",
+          "ticket_also_sold_by": [
+            "Air France",
+            "KLM",
+            "Virgin Atlantic"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 272 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 461,
+      "carbon_emissions": {
+        "this_flight": 273000,
+        "typical_for_this_route": 438000,
+        "difference_percent": -38
+      },
+      "price": 1955,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "departure_token": "WyJDalJJU0hOUlkwSXliWG8zVHpSQlFXcERiVkZDUnkwdExTMHRMUzB0TFMxMmQyOTZOVUZCUVVGQlIyaGFNVlJyVFUxeGNGbEJFZ1JFVERRNEdnc0lvL2NMRUFJYUExVlRSRGdjY0tQM0N3PT0iLFtbIkpGSyIsIjIwMjUtMDYtMjYiLCJBTVMiLG51bGwsIkRMIiwiNDgiXV1d"
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 1056,
+    "price_level": "high",
+    "typical_price_range": [
+      530,
+      870
+    ],
+    "price_history": [
+      [
+        1745467200,
+        870
+      ],
+      [
+        1745553600,
+        870
+      ],
+      [
+        1745640000,
+        890
+      ],
+      [
+        1745726400,
+        890
+      ],
+      [
+        1745812800,
+        890
+      ],
+      [
+        1745899200,
+        866
+      ],
+      [
+        1745985600,
+        866
+      ],
+      [
+        1746072000,
+        865
+      ],
+      [
+        1746158400,
+        864
+      ],
+      [
+        1746244800,
+        864
+      ],
+      [
+        1746331200,
+        845
+      ],
+      [
+        1746417600,
+        845
+      ],
+      [
+        1746504000,
+        770
+      ],
+      [
+        1746590400,
+        617
+      ],
+      [
+        1746676800,
+        590
+      ],
+      [
+        1746763200,
+        602
+      ],
+      [
+        1746849600,
+        602
+      ],
+      [
+        1746936000,
+        623
+      ],
+      [
+        1747022400,
+        589
+      ],
+      [
+        1747108800,
+        589
+      ],
+      [
+        1747195200,
+        477
+      ],
+      [
+        1747281600,
+        477
+      ],
+      [
+        1747368000,
+        588
+      ],
+      [
+        1747454400,
+        589
+      ],
+      [
+        1747540800,
+        589
+      ],
+      [
+        1747627200,
+        569
+      ],
+      [
+        1747713600,
+        569
+      ],
+      [
+        1747800000,
+        569
+      ],
+      [
+        1747886400,
+        569
+      ],
+      [
+        1747972800,
+        570
+      ],
+      [
+        1748059200,
+        570
+      ],
+      [
+        1748145600,
+        570
+      ],
+      [
+        1748232000,
+        570
+      ],
+      [
+        1748318400,
+        570
+      ],
+      [
+        1748404800,
+        570
+      ],
+      [
+        1748491200,
+        570
+      ],
+      [
+        1748577600,
+        570
+      ],
+      [
+        1748664000,
+        570
+      ],
+      [
+        1748750400,
+        570
+      ],
+      [
+        1748836800,
+        570
+      ],
+      [
+        1748923200,
+        570
+      ],
+      [
+        1749009600,
+        570
+      ],
+      [
+        1749096000,
+        570
+      ],
+      [
+        1749182400,
+        571
+      ],
+      [
+        1749268800,
+        571
+      ],
+      [
+        1749355200,
+        571
+      ],
+      [
+        1749441600,
+        571
+      ],
+      [
+        1749528000,
+        591
+      ],
+      [
+        1749614400,
+        591
+      ],
+      [
+        1749700800,
+        591
+      ],
+      [
+        1749787200,
+        570
+      ],
+      [
+        1749873600,
+        679
+      ],
+      [
+        1749960000,
+        680
+      ],
+      [
+        1750046400,
+        622
+      ],
+      [
+        1750132800,
+        782
+      ],
+      [
+        1750219200,
+        752
+      ],
+      [
+        1750305600,
+        765
+      ],
+      [
+        1750392000,
+        787
+      ],
+      [
+        1750478400,
+        1021
+      ],
+      [
+        1750564800,
+        1049
+      ],
+      [
+        1750651200,
+        1056
+      ]
+    ]
+  },
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "JFK",
+            "name": "John F. Kennedy International Airport"
+          },
+          "city": "New York",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa1dwH1NZQk4dsbPiyA9Vrq2RX75jXSZ-OkHn7NkLHl-11HercqDXoZ4p2cDxJkH6vca2degawrCzHEQ",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEaUa9NsdPWGpAUGkTApkZDT_4M6_6V8wTcC0v1b1wJAJX-BuMSiipXbsoznGgcI1xLOc5QiTcR_xovexgjdOz0gqQe0tRQ9h0bUkZ07Q"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "AMS",
+            "name": "Amsterdam Airport Schiphol"
+          },
+          "city": "Amsterdam",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTHETZVxU4_OrKq24sf7n7HS_0ca3__1_Urs251dzMXLn16tZy8J8x5i1phGimLkrbGL2gDKGrA-U35g",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiH-EGCc5jbyYbopiqf-g80xO0O5pxPnlJESLyIsY2uvo-gB84S94Q4C9kNWoKQ_eQ3OU-6evapBnb7TquB4zg3p3fQEGA3wpbxxhRdx0"
+        }
+      ]
+    },
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "AMS",
+            "name": "Amsterdam Airport Schiphol"
+          },
+          "city": "Amsterdam",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTHETZVxU4_OrKq24sf7n7HS_0ca3__1_Urs251dzMXLn16tZy8J8x5i1phGimLkrbGL2gDKGrA-U35g",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiH-EGCc5jbyYbopiqf-g80xO0O5pxPnlJESLyIsY2uvo-gB84S94Q4C9kNWoKQ_eQ3OU-6evapBnb7TquB4zg3p3fQEGA3wpbxxhRdx0"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "JFK",
+            "name": "John F. Kennedy International Airport"
+          },
+          "city": "New York",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa1dwH1NZQk4dsbPiyA9Vrq2RX75jXSZ-OkHn7NkLHl-11HercqDXoZ4p2cDxJkH6vca2degawrCzHEQ",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEaUa9NsdPWGpAUGkTApkZDT_4M6_6V8wTcC0v1b1wJAJX-BuMSiipXbsoznGgcI1xLOc5QiTcR_xovexgjdOz0gqQe0tRQ9h0bUkZ07Q"
+        }
+      ]
+    }
+  ]
+}
