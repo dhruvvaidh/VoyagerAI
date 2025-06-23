@@ -1,0 +1,1077 @@
+{
+  "search_metadata": {
+    "search_id": "ROC_DFW_2025-07-13_20250623_140330",
+    "departure": "ROC",
+    "arrival": "DFW",
+    "outbound_date": "2025-07-13",
+    "return_date": null,
+    "trip_type": "One way",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants_in_seat": 0,
+      "infants_on_lap": 0
+    },
+    "travel_class": "Economy",
+    "currency": "USD",
+    "search_timestamp": "2025-06-23T14:03:30.875532"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-07-13 06:24"
+          },
+          "arrival_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2025-07-13 07:34"
+          },
+          "duration": 130,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2483",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 86 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2025-07-13 08:45"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-07-13 11:24"
+          },
+          "duration": 159,
+          "airplane": "Airbus A319",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1297",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 142 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 71,
+          "name": "Chicago O'Hare International Airport",
+          "id": "ORD"
+        }
+      ],
+      "total_duration": 360,
+      "carbon_emissions": {
+        "this_flight": 229000,
+        "typical_for_this_route": 196000,
+        "difference_percent": 17
+      },
+      "price": 254,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJZDBSWVR6TTJMVmwwTmpCQlNtOUVka0ZDUnkwdExTMHRMUzB0TFc5NVkzWXlNVUZCUVVGQlIyaGFiSFpKU1RkT2VrOUJFZzFWUVRJME9ETjhWVUV4TWprM0dnc0k1c1VCRUFJYUExVlRSRGdjY09iRkFRPT0iLFtbIlJPQyIsIjIwMjUtMDctMTMiLCJPUkQiLG51bGwsIlVBIiwiMjQ4MyJdLFsiT1JEIiwiMjAyNS0wNy0xMyIsIkRGVyIsbnVsbCwiVUEiLCIxMjk3Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-07-13 06:35"
+          },
+          "arrival_airport": {
+            "name": "Detroit Metropolitan Wayne County Airport",
+            "id": "DTW",
+            "time": "2025-07-13 07:55"
+          },
+          "duration": 80,
+          "airplane": "Canadair RJ 900",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 5167",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Carbon emissions estimate: 82 kg"
+          ],
+          "plane_and_crew_by": "Endeavor Air DBA Delta Connection"
+        },
+        {
+          "departure_airport": {
+            "name": "Detroit Metropolitan Wayne County Airport",
+            "id": "DTW",
+            "time": "2025-07-13 08:39"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-07-13 10:23"
+          },
+          "duration": 164,
+          "airplane": "Airbus A319",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 2746",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 162 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 44,
+          "name": "Detroit Metropolitan Wayne County Airport",
+          "id": "DTW"
+        }
+      ],
+      "total_duration": 288,
+      "carbon_emissions": {
+        "this_flight": 244000,
+        "typical_for_this_route": 196000,
+        "difference_percent": 24
+      },
+      "price": 254,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJZDBSWVR6TTJMVmwwTmpCQlNtOUVka0ZDUnkwdExTMHRMUzB0TFc5NVkzWXlNVUZCUVVGQlIyaGFiSFpKU1RkT2VrOUJFZzFFVERVeE5qZDhSRXd5TnpRMkdnc0k1c1VCRUFJYUExVlRSRGdjY09iRkFRPT0iLFtbIlJPQyIsIjIwMjUtMDctMTMiLCJEVFciLG51bGwsIkRMIiwiNTE2NyJdLFsiRFRXIiwiMjAyNS0wNy0xMyIsIkRGVyIsbnVsbCwiREwiLCIyNzQ2Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-07-13 19:00"
+          },
+          "arrival_airport": {
+            "name": "Philadelphia International Airport",
+            "id": "PHL",
+            "time": "2025-07-13 20:20"
+          },
+          "duration": 80,
+          "airplane": "Embraer ERJ-145",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 5907",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Carbon emissions estimate: 95 kg"
+          ],
+          "often_delayed_by_over_30_min": true,
+          "plane_and_crew_by": "Piedmont Airlines as American Eagle"
+        },
+        {
+          "departure_airport": {
+            "name": "Philadelphia International Airport",
+            "id": "PHL",
+            "time": "2025-07-13 21:21"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-07-13 23:59"
+          },
+          "duration": 218,
+          "airplane": "Airbus A321neo",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 808",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 147 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 61,
+          "name": "Philadelphia International Airport",
+          "id": "PHL"
+        }
+      ],
+      "total_duration": 359,
+      "carbon_emissions": {
+        "this_flight": 242000,
+        "typical_for_this_route": 196000,
+        "difference_percent": 23
+      },
+      "price": 254,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJZDBSWVR6TTJMVmwwTmpCQlNtOUVka0ZDUnkwdExTMHRMUzB0TFc5NVkzWXlNVUZCUVVGQlIyaGFiSFpKU1RkT2VrOUJFZ3hCUVRVNU1EZDhRVUU0TURnYUN3am14UUVRQWhvRFZWTkVPQnh3NXNVQiIsW1siUk9DIiwiMjAyNS0wNy0xMyIsIlBITCIsbnVsbCwiQUEiLCI1OTA3Il0sWyJQSEwiLCIyMDI1LTA3LTEzIiwiREZXIixudWxsLCJBQSIsIjgwOCJdXV0="
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-07-13 18:32"
+          },
+          "arrival_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2025-07-13 20:56"
+          },
+          "duration": 144,
+          "airplane": "Airbus A320",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 2047",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 113 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2025-07-13 23:07"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-07-14 00:21"
+          },
+          "duration": 134,
+          "airplane": "Airbus A321",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 818",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 123 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 131,
+          "name": "Hartsfield-Jackson Atlanta International Airport",
+          "id": "ATL"
+        }
+      ],
+      "total_duration": 409,
+      "carbon_emissions": {
+        "this_flight": 237000,
+        "typical_for_this_route": 196000,
+        "difference_percent": 21
+      },
+      "price": 280,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJZDBSWVR6TTJMVmwwTmpCQlNtOUVka0ZDUnkwdExTMHRMUzB0TFc5NVkzWXlNVUZCUVVGQlIyaGFiSFpKU1RkT2VrOUJFZ3hFVERJd05EZDhSRXc0TVRnYUN3aU8yZ0VRQWhvRFZWTkVPQnh3anRvQiIsW1siUk9DIiwiMjAyNS0wNy0xMyIsIkFUTCIsbnVsbCwiREwiLCIyMDQ3Il0sWyJBVEwiLCIyMDI1LTA3LTEzIiwiREZXIixudWxsLCJETCIsIjgxOCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-07-13 06:26"
+          },
+          "arrival_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2025-07-13 07:24"
+          },
+          "duration": 118,
+          "airplane": "Embraer 175",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 4247",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 120 kg"
+          ],
+          "plane_and_crew_by": "Envoy Air as American Eagle"
+        },
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2025-07-13 08:25"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-07-13 11:03"
+          },
+          "duration": 158,
+          "airplane": "Boeing 787",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1555",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 111 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 61,
+          "name": "Chicago O'Hare International Airport",
+          "id": "ORD"
+        }
+      ],
+      "total_duration": 337,
+      "carbon_emissions": {
+        "this_flight": 233000,
+        "typical_for_this_route": 196000,
+        "difference_percent": 19
+      },
+      "price": 303,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJZDBSWVR6TTJMVmwwTmpCQlNtOUVka0ZDUnkwdExTMHRMUzB0TFc5NVkzWXlNVUZCUVVGQlIyaGFiSFpKU1RkT2VrOUJFZzFCUVRReU5EZDhRVUV4TlRVMUdnc0lpdXdCRUFJYUExVlRSRGdjY0lyc0FRPT0iLFtbIlJPQyIsIjIwMjUtMDctMTMiLCJPUkQiLG51bGwsIkFBIiwiNDI0NyJdLFsiT1JEIiwiMjAyNS0wNy0xMyIsIkRGVyIsbnVsbCwiQUEiLCIxNTU1Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-07-13 06:00"
+          },
+          "arrival_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2025-07-13 08:10"
+          },
+          "duration": 130,
+          "airplane": "Airbus A320",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 1200",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 113 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2025-07-13 08:55"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-07-13 10:08"
+          },
+          "duration": 133,
+          "airplane": "Airbus A321",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 961",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 123 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 45,
+          "name": "Hartsfield-Jackson Atlanta International Airport",
+          "id": "ATL"
+        }
+      ],
+      "total_duration": 308,
+      "carbon_emissions": {
+        "this_flight": 237000,
+        "typical_for_this_route": 196000,
+        "difference_percent": 21
+      },
+      "price": 330,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJZDBSWVR6TTJMVmwwTmpCQlNtOUVka0ZDUnkwdExTMHRMUzB0TFc5NVkzWXlNVUZCUVVGQlIyaGFiSFpKU1RkT2VrOUJFZ3hFVERFeU1EQjhSRXc1TmpFYUN3aVdnUUlRQWhvRFZWTkVPQnh3bG9FQyIsW1siUk9DIiwiMjAyNS0wNy0xMyIsIkFUTCIsbnVsbCwiREwiLCIxMjAwIl0sWyJBVEwiLCIyMDI1LTA3LTEzIiwiREZXIixudWxsLCJETCIsIjk2MSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-07-13 18:50"
+          },
+          "arrival_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2025-07-13 19:50"
+          },
+          "duration": 120,
+          "airplane": "Embraer 175",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 3363",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 120 kg"
+          ],
+          "often_delayed_by_over_30_min": true,
+          "plane_and_crew_by": "Envoy Air as American Eagle"
+        },
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2025-07-13 20:51"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-07-13 23:43"
+          },
+          "duration": 172,
+          "airplane": "Airbus A321",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2281",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 125 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 61,
+          "name": "Chicago O'Hare International Airport",
+          "id": "ORD"
+        }
+      ],
+      "total_duration": 353,
+      "carbon_emissions": {
+        "this_flight": 246000,
+        "typical_for_this_route": 196000,
+        "difference_percent": 26
+      },
+      "price": 374,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJZDBSWVR6TTJMVmwwTmpCQlNtOUVka0ZDUnkwdExTMHRMUzB0TFc5NVkzWXlNVUZCUVVGQlIyaGFiSFpKU1RkT2VrOUJFZzFCUVRNek5qTjhRVUV5TWpneEdnc0l4cU1DRUFJYUExVlRSRGdjY01hakFnPT0iLFtbIlJPQyIsIjIwMjUtMDctMTMiLCJPUkQiLG51bGwsIkFBIiwiMzM2MyJdLFsiT1JEIiwiMjAyNS0wNy0xMyIsIkRGVyIsbnVsbCwiQUEiLCIyMjgxIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-07-13 17:56"
+          },
+          "arrival_airport": {
+            "name": "Detroit Metropolitan Wayne County Airport",
+            "id": "DTW",
+            "time": "2025-07-13 19:15"
+          },
+          "duration": 79,
+          "airplane": "Canadair RJ 900",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 5211",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Carbon emissions estimate: 82 kg"
+          ],
+          "often_delayed_by_over_30_min": true,
+          "plane_and_crew_by": "Endeavor Air DBA Delta Connection"
+        },
+        {
+          "departure_airport": {
+            "name": "Detroit Metropolitan Wayne County Airport",
+            "id": "DTW",
+            "time": "2025-07-13 19:50"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-07-13 21:32"
+          },
+          "duration": 162,
+          "airplane": "Airbus A319",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 1207",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 162 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 35,
+          "name": "Detroit Metropolitan Wayne County Airport",
+          "id": "DTW"
+        }
+      ],
+      "total_duration": 276,
+      "carbon_emissions": {
+        "this_flight": 244000,
+        "typical_for_this_route": 196000,
+        "difference_percent": 24
+      },
+      "price": 380,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJZDBSWVR6TTJMVmwwTmpCQlNtOUVka0ZDUnkwdExTMHRMUzB0TFc5NVkzWXlNVUZCUVVGQlIyaGFiSFpKU1RkT2VrOUJFZzFFVERVeU1URjhSRXd4TWpBM0dnc0lucWdDRUFJYUExVlRSRGdjY0o2b0FnPT0iLFtbIlJPQyIsIjIwMjUtMDctMTMiLCJEVFciLG51bGwsIkRMIiwiNTIxMSJdLFsiRFRXIiwiMjAyNS0wNy0xMyIsIkRGVyIsbnVsbCwiREwiLCIxMjA3Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-07-13 11:03"
+          },
+          "arrival_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2025-07-13 12:03"
+          },
+          "duration": 120,
+          "airplane": "Bombardier Regional Jet 550",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 4484",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 178 kg"
+          ],
+          "plane_and_crew_by": "Gojet Airlines DBA United Express"
+        },
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2025-07-13 12:45"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-07-13 15:22"
+          },
+          "duration": 157,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2290",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 148 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 42,
+          "name": "Chicago O'Hare International Airport",
+          "id": "ORD"
+        }
+      ],
+      "total_duration": 319,
+      "carbon_emissions": {
+        "this_flight": 328000,
+        "typical_for_this_route": 196000,
+        "difference_percent": 67
+      },
+      "price": 582,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJZDBSWVR6TTJMVmwwTmpCQlNtOUVka0ZDUnkwdExTMHRMUzB0TFc5NVkzWXlNVUZCUVVGQlIyaGFiSFpKU1RkT2VrOUJFZzFWUVRRME9EUjhWVUV5TWprd0dnc0l0c1lERUFJYUExVlRSRGdjY0xiR0F3PT0iLFtbIlJPQyIsIjIwMjUtMDctMTMiLCJPUkQiLG51bGwsIlVBIiwiNDQ4NCJdLFsiT1JEIiwiMjAyNS0wNy0xMyIsIkRGVyIsbnVsbCwiVUEiLCIyMjkwIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Frederick Douglass Greater Rochester International Airport",
+            "id": "ROC",
+            "time": "2025-07-13 11:21"
+          },
+          "arrival_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2025-07-13 12:21"
+          },
+          "duration": 120,
+          "airplane": "Embraer 170",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 4104",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 136 kg"
+          ],
+          "plane_and_crew_by": "Envoy Air as American Eagle"
+        },
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2025-07-13 13:23"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-07-13 15:55"
+          },
+          "duration": 152,
+          "airplane": "Airbus A321",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1290",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 125 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 62,
+          "name": "Chicago O'Hare International Airport",
+          "id": "ORD"
+        }
+      ],
+      "total_duration": 334,
+      "carbon_emissions": {
+        "this_flight": 262000,
+        "typical_for_this_route": 196000,
+        "difference_percent": 34
+      },
+      "price": 775,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJZDBSWVR6TTJMVmwwTmpCQlNtOUVka0ZDUnkwdExTMHRMUzB0TFc5NVkzWXlNVUZCUVVGQlIyaGFiSFpKU1RkT2VrOUJFZzFCUVRReE1EUjhRVUV4TWprd0dnc0kvTndFRUFJYUExVlRSRGdjY1B6Y0JBPT0iLFtbIlJPQyIsIjIwMjUtMDctMTMiLCJPUkQiLG51bGwsIkFBIiwiNDEwNCJdLFsiT1JEIiwiMjAyNS0wNy0xMyIsIkRGVyIsbnVsbCwiQUEiLCIxMjkwIl1dXQ=="
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 254,
+    "price_level": "typical",
+    "typical_price_range": [
+      140,
+      270
+    ],
+    "price_history": [
+      [
+        1745467200,
+        137
+      ],
+      [
+        1745553600,
+        137
+      ],
+      [
+        1745640000,
+        204
+      ],
+      [
+        1745726400,
+        204
+      ],
+      [
+        1745812800,
+        204
+      ],
+      [
+        1745899200,
+        204
+      ],
+      [
+        1745985600,
+        204
+      ],
+      [
+        1746072000,
+        204
+      ],
+      [
+        1746158400,
+        204
+      ],
+      [
+        1746244800,
+        204
+      ],
+      [
+        1746331200,
+        204
+      ],
+      [
+        1746417600,
+        204
+      ],
+      [
+        1746504000,
+        204
+      ],
+      [
+        1746590400,
+        204
+      ],
+      [
+        1746676800,
+        152
+      ],
+      [
+        1746763200,
+        152
+      ],
+      [
+        1746849600,
+        204
+      ],
+      [
+        1746936000,
+        204
+      ],
+      [
+        1747022400,
+        204
+      ],
+      [
+        1747108800,
+        204
+      ],
+      [
+        1747195200,
+        204
+      ],
+      [
+        1747281600,
+        204
+      ],
+      [
+        1747368000,
+        204
+      ],
+      [
+        1747454400,
+        204
+      ],
+      [
+        1747540800,
+        204
+      ],
+      [
+        1747627200,
+        204
+      ],
+      [
+        1747713600,
+        204
+      ],
+      [
+        1747800000,
+        204
+      ],
+      [
+        1747886400,
+        204
+      ],
+      [
+        1747972800,
+        204
+      ],
+      [
+        1748059200,
+        204
+      ],
+      [
+        1748145600,
+        204
+      ],
+      [
+        1748232000,
+        204
+      ],
+      [
+        1748318400,
+        204
+      ],
+      [
+        1748404800,
+        204
+      ],
+      [
+        1748491200,
+        204
+      ],
+      [
+        1748577600,
+        204
+      ],
+      [
+        1748664000,
+        204
+      ],
+      [
+        1748750400,
+        204
+      ],
+      [
+        1748836800,
+        204
+      ],
+      [
+        1748923200,
+        204
+      ],
+      [
+        1749009600,
+        204
+      ],
+      [
+        1749096000,
+        224
+      ],
+      [
+        1749182400,
+        242
+      ],
+      [
+        1749268800,
+        242
+      ],
+      [
+        1749355200,
+        242
+      ],
+      [
+        1749441600,
+        242
+      ],
+      [
+        1749528000,
+        204
+      ],
+      [
+        1749614400,
+        204
+      ],
+      [
+        1749700800,
+        204
+      ],
+      [
+        1749787200,
+        204
+      ],
+      [
+        1749873600,
+        204
+      ],
+      [
+        1749960000,
+        224
+      ],
+      [
+        1750046400,
+        229
+      ],
+      [
+        1750132800,
+        224
+      ],
+      [
+        1750219200,
+        224
+      ],
+      [
+        1750305600,
+        224
+      ],
+      [
+        1750392000,
+        224
+      ],
+      [
+        1750478400,
+        224
+      ],
+      [
+        1750564800,
+        224
+      ],
+      [
+        1750651200,
+        254
+      ]
+    ]
+  },
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "ROC",
+            "name": "Frederick Douglass Greater Rochester International Airport"
+          },
+          "city": "Rochester",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqxbaS_RUFbZ6WzYkvXEwEDUW2Vr2Ew_cbefzfkO35pYhikVeuFCWww3hmIGTJdwEB3DcCFv1OT-Oc0w",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSs7W9HF1KKlffeFP_gQ1onr_uvIeE80rIRBlvrRaXT30gV44pXLrs4KAez_Pr-LdFPZ_Em_lkl7OsKDQhuTpzoQ5LUFIADEmDZK21kp28"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "DFW",
+            "name": "Dallas Fort Worth International Airport"
+          },
+          "city": "Dallas",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61zSeEE0f0RSedvAIvzJKv1B7Tojcnx1pR5ipb9l389QDa2V23R4cRbmgVZVCgrVsZ6Ewme_WpDRgmw",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4Hg7sSdARNWUKEIVKbquvgGkx76RuLbHy7uH51pecZu-z7-Wi9ya5fpf-YmM63--MKoWu7HUM3Q1O7mQoRBSlNeNSfgHP5Y2tO11niU"
+        }
+      ]
+    }
+  ]
+}
