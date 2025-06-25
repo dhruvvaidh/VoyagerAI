@@ -3,7 +3,7 @@
 VoyagerAI is a server-side multi-agent system that finds flights, hotels (or Airbnbs) and builds a personalised day-by-day itinerary. Under the hood it uses Google's Agent Development Kit, Gemini models, and a handful of MCP servers that wrap external APIs.
 
 <p align="center">
-  <img width="640" src="VoyagerAI.pdf" alt="High-level architecture">
+  <img width="640" src="architecture_diagram.png" alt="High-level architecture">
 </p>
 
 ---
@@ -40,21 +40,21 @@ cp .env.example .env
 nano .env          # or any editor
 ```
 
-| Variable | What it is |
-|----------|------------|
-| `TRIPADVISOR_MCP` | pipedream MCP endpoint for Tripadvisor |
-| `GOOGLE_API_KEY` | Gemini API key from Google AI Studio<br>*(set `GOOGLE_GENAI_USE_VERTEXAI=TRUE` if you use Vertex AI)* |
-| `GOOGLE_MAPS_API_KEY` | Maps SDK key |
-| `SERPAPI_API_KEY` | SerpAPI (used by flight MCP) |
-| `SMITHERY_API_KEY` | Smithery.ai key for Airbnb MCP |
-| `APIFY_API_TOKEN` | Token for Booking Scraper MCP |
+| Variable | What it is | Where to get it from |
+|----------|------------|----------------------|
+| `TRIPADVISOR_MCP` | Pipedream MCP endpoint for Tripadvisor | https://mcp.pipedream.com/app/tripadvisor_content_api |
+| `GOOGLE_API_KEY` | Gemini API key from Google AI Studio<br>*(set `GOOGLE_GENAI_USE_VERTEXAI=TRUE` if you use Vertex AI)* | https://aistudio.google.com/apikey |
+| `GOOGLE_MAPS_API_KEY` | Maps SDK key | https://developers.google.com/maps/get-started#create-project |
+| `SERPAPI_API_KEY` | SerpAPI (used by flight MCP) | https://serpapi.com/users/sign_in |
+| `SMITHERY_API_KEY` | Smithery.ai key for Airbnb MCP | https://smithery.ai/server/@smithery-ai/brave-search/api |
+| `APIFY_API_TOKEN` | Token for Booking Scraper MCP | https://console.apify.com/sign-in |
 
 ---
 
 ## 2. Run in the terminal
 
 ```bash
-python runner_cli.py
+python runner.py
 ```
 
 ```
@@ -71,7 +71,7 @@ The CLI preserves conversation state, so follow-up questions ("Make the hotel ch
 ## 3. Run the Streamlit web chat
 
 ```bash
-streamlit run streamlit_app.py
+streamlit run app.py
 ```
 
 - Press Enter to send messages.
@@ -101,7 +101,7 @@ VoyagerAI/
 
 ## 5. Acknowledgements & resources
 
-- [Google ADK](https://developers.google.com/assistant-sdk) – framework for agent composition
+- [Google ADK](https://google.github.io/adk-docs/) – framework for agent composition
 - [Gemini models](https://ai.google.dev/) – LLM reasoning
 - [Tripadvisor Content API](https://www.tripadvisor.com/developers) & [Pipedream MCP](https://mcp.pipedream.com/app/tripadvisor_content_api)
 - [Google Maps Platform](https://developers.google.com/maps)
